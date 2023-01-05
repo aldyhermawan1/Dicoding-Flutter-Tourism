@@ -1,6 +1,6 @@
 {
-    "name": "tourism_app",
-    "short_name": "tourism_app",
+    "name": "wisata_bandung",
+    "short_name": "wisata_bandung",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
